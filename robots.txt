@@ -1,3 +1,3 @@
 User-agent: *
-Sitemap: https://jsangyun.me/sitemap/sitemap-index.xml
-Host: https://jsangyun.me
+Sitemap: https://jsangyun.github.io/sitemap/sitemap-index.xml
+Host: https://jsangyun.github.io
