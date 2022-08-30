@@ -1,20 +1,20 @@
 module.exports = {
-  title: `jsangyun.me`,
+  title: `jsangyun.github.io`,
   description: `잠이 고픈 개발자`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
-  siteUrl: `https://jsangyun.me/`,
+  siteUrl: `https://jsangyun.github.io`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
       repo: `jsangyun/jsangyun.github.io`, // `zoomkoding/zoomkoding-gatsby-blog`,
     },
   },
-  ga: '0', // Google Analytics Tracking ID
+  ga: 'G-64JVLSGNY3', // Google Analytics Tracking ID
   author: {
     name: `정상윤`,
     bio: {
       role: `개발자`,
-      description: ['',],
+      description: [''],
       thumbnail: 'sticker.png', // Path to the image in the 'asset' folder
     },
     social: {
